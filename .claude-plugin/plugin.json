@@ -1,0 +1,5 @@
+{
+  "name": "limite-diario",
+  "version": "0.1.0",
+  "description": "Divide o limite semanal do Claude em 7 dias e barra mensagens quando o teto do dia e atingido."
+}

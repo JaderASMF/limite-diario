@@ -1,0 +1,5 @@
+{
+  "name": "limite-diario",
+  "owner": { "name": "JaderASMF" },
+  "plugins": [{ "name": "limite-diario", "source": "./" }]
+}
